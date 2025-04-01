@@ -1,0 +1,17 @@
+# Ignore large folders
+output_images/
+checkpoints/
+generated_images/
+old_checkpoints/
+processed_data/
+datasets/
+PORCONES.228.35 – 1636/
+Paredes - Reglas generales/
+gan_generated_images_new/
+gan_generated_images/
+Buendia - Instruccion (1)/
+buendia_half_images/
+Mendo - Principe perfecto/
+Ezcaray - Vozes/
+cleaned_spanish_sentences.csv
+cleaned_sentences.csv
