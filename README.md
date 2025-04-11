@@ -6,11 +6,17 @@ This project aims to generate synthetic Renaissance-style printed text images us
 
 🚀 Features
 	•	Generate Renaissance-style text with realistic printing artifacts
+ 
 	•	Support for multiple degradation types
+ 
 	•	Modular pipeline for training and inference
+ 
 	•	Preprocessing and formatting of historical Spanish texts
+ 
 	•	Edge and texture simulation utilities
+ 
 	•	Support for training with L1 and custom loss functions
+ 
 
  🧾 Directory Structure
  .
